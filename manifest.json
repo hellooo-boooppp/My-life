@@ -1,0 +1,8 @@
+{
+  "name": "My Life \u2014 Master Plus",
+  "short_name": "My Life",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f6f3ff",
+  "theme_color": "#8b5cf6"
+}
