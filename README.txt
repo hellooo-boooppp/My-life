@@ -1,6 +1,5 @@
-MY LIFE — MASTER PLUS
-New additions: pets, cars, expanded wardrobe, weather/seasons, more town places, life events, achievements and all Master Edition systems.
-
-This is an installable PWA prototype. Unzip, host over HTTPS, open in Chrome, then use Add to Home screen / Install app.
-
-It is not a signed Google Play APK/AAB. A Play Store release needs Android packaging and signing.
+MY LIFE — GRAND EDITION
+A landscape, offline-first playable web-app prototype.
+Open index.html in a browser, or host the folder to install it as a PWA.
+Core systems included: visible town, Sim creator, varied hair, outfits/luxury style, school, social/confront/make-up, pets, cars, travel/suitcases, phone apps, money, chores, memories, weather and local saving.
+This is an original life-sim prototype, not a copy of The Sims 4 and not a Google Play APK.

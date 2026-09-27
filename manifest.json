@@ -1,8 +1,16 @@
 {
-  "name": "My Life \u2014 Master Plus",
+  "name": "My Life \u2014 Grand Edition",
   "short_name": "My Life",
-  "start_url": ".",
-  "display": "standalone",
-  "background_color": "#f6f3ff",
-  "theme_color": "#8b5cf6"
+  "start_url": "./index.html",
+  "display": "landscape",
+  "orientation": "landscape",
+  "background_color": "#101322",
+  "theme_color": "#8b5cf6",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ]
 }
